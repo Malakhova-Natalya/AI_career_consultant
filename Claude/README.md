@@ -5,5 +5,4 @@
 - [Часть 4. Итоговая рекомендация](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_04.md)
 - [Часть 5. Сравнение своих ответов с ответами ChatGPT](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_05_comparison.md)
 
-Дополнительно: [статусы](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/statuses.md)
-это список статусов, их переводов и комментария в свободной форме о значении
+Дополнительно: список [статусов](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/statuses.md) во время работы модели, их переводов и комментария в свободной форме о значении
