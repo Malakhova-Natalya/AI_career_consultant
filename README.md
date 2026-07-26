@@ -14,13 +14,14 @@ AI как карьерный консультант
 Модели:
 - ChatGPT: компания OpenAI, модель GPT-5.5
 - Claude: компания Anthropic, модель Claude Sonnet 5
+- Alice: компания Яндекс, модель YandexGPT 5.1 Pro
 
-## Карьерное исследование: сравнение ответов двух моделей
+## Карьерное исследование: сравнение ответов нескольких моделей
 
-| № | Часть | ChatGPT | Claude |
-|---|-------|---------|--------|
-| 1 | Психологический профиль специалиста | [part_01](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_01.md) | [part_01](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_01.md) |
-| 2 | Профессиональный профиль | [part_02](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_02.md) | [part_02](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_02.md) |
-| 3 | Карьерные развилки | [part_03](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_03.md) | [part_03](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_03.md) |
-| 4 | Итоговая рекомендация | [part_04](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_04.md) | [part_04](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_04.md) |
-| 5 | Сравнение ответов | [part_05](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_05_comparison.md) | [part_05](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_05_comparison.md) |
+| № | Часть | ChatGPT | Claude | Alice |
+|---|-------|---------|--------|-------|
+| 1 | Психологический профиль специалиста | [part_01](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_01.md) | [part_01](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_01.md) | [part_01](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Alice/part_01.md) |
+| 2 | Профессиональный профиль | [part_02](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_02.md) | [part_02](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_02.md) | [part_02](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Alice/part_02.md) |
+| 3 | Карьерные развилки | [part_03](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_03.md) | [part_03](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_03.md) | [part_03](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Alice/part_03.md) |
+| 4 | Итоговая рекомендация | [part_04](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_04.md) | [part_04](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_04.md) | [part_04](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Alice/part_04.md) |
+| 5 | Сравнение ответов | [part_05](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/ChatGPT/part_05_comparison.md) | [part_05](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Claude/part_05_comparison.md) | [part_05](https://github.com/Malakhova-Natalya/AI_career_consultant/blob/main/Alice/part_05_comparison.md) |
